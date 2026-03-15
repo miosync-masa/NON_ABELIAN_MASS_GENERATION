@@ -2,8 +2,6 @@
 
 **Plaquette-Deviation Functionals, Non-Abelian Excess Channels, and Finite-Size Scaling Diagnostics in SU(2) Lattice Yang–Mills Theory**
 
-Submitted to: *Journal of Mathematical Physics* (AIP)
-
 Author: Masamichi Iizumi — Miosync, Inc., Tokyo, Japan
 
 ---
@@ -149,9 +147,8 @@ MIT License. See [LICENSE](LICENSE) for details.
 ```bibtex
 @article{Iizumi2026_NonAbelian,
   author  = {Iizumi, Masamichi},
-  title   = {PNon-Abelian Excess over Abelianized Baselines in
-SU(2)Lattice Yang-Mills Theory},
-  journal = {J. Math. Phys.},
+  title   = {Plaquette-Deviation Functionals, Non-Abelian Excess Channels, and Finite-Size Scaling Diagnostics in SU(2) Lattice Yang–Mills Theory},
+  journal = {},
   year    = {2026},
   note    = {Submitted},
   url     = {https://github.com/miosync-masa/Non_abelian_mass_generation}
@@ -164,4 +161,4 @@ SU(2)Lattice Yang-Mills Theory},
 
 Masamichi Iizumi — Miosync, Inc., Tokyo, Japan
 - GitHub: [@miosync-masa](https://github.com/miosync-masa)
-- Email: correspondingauthor@miosync.com
+- Email: m.iizumi@miosync.email
