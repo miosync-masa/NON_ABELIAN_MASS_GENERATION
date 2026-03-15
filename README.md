@@ -33,7 +33,7 @@ Non_abelian_mass_generation/
 │   ├── fig1.png                     # Figure 1 (6-panel diagnostic)
 │   └── Result.txt                   # Full numerical output
 ├── src2/                            # Finite-size falsification (Section 5)
-│   ├── finte_size.py                # Direct self-term subtraction implementation
+│   ├── finite_size.py               # Direct self-term subtraction implementation
 │   ├── Fig2.png                     # Figure 2 (6-panel finite-size diagnostics)
 │   └── Result.txt                   # Full numerical output
 ├── src3/                            # Accelerated robustness check (Appendix A)
@@ -50,7 +50,7 @@ Non_abelian_mass_generation/
 | Code | Paper Section | Figures / Tables |
 |------|--------------|-----------------|
 | `src1/Restricted_family.py` | Sections 2–4 | Figure 1, Table I |
-| `src2/finte_size.py` | Section 5 | Figure 2, Tables II & III |
+| `src2/finite_size.py` | Section 5 | Figure 2, Tables II & III |
 | `src3/Naive_continuum_scaling.py` | Appendix A | Appendix Figure A1, Tables A1 & A2 |
 
 ---
